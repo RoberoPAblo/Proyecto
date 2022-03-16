@@ -1,0 +1,77 @@
+h1{
+    font-family: 'Fjalla One', sans-serif;
+    text-shadow: 8px 8px 8px rgb(42, 138, 141);
+}
+h2, h3{
+    font-family: 'Fredoka', sans-serif;
+}
+
+
+body{
+    margin: 0;
+}
+.color {
+    color: rgb(255, 250, 250);
+}
+#color { 
+    color: rgb(61, 92, 128);
+}
+.img_headers{
+    width: 100%;
+    height: 450px;
+    background-image: url('./img/minecraft-g2eb4ca8b5_640.png');
+    background-size: cover;
+    background-position: center;
+}
+.title_header{
+    color: white;
+    font-size: 100px;
+    margin: 0;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 2px 1px 7px grey;
+}
+.content_title{
+    width: 400px;
+}
+.Green_content{
+    background-color: green;
+    width: 100%;
+    height: 400px;
+}
+.Coffe_content{
+    background-color: rgb(136, 53, 24);
+    width: 100%;
+    height: 550px;
+}
+.z_title{
+    color:#fffdfd;
+    font-size: 150px;
+    right: 0;
+    bottom: -295px;
+}
+.z_content{
+    width: 100%;
+    height: 100%;
+}
+
+.imgCard{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 5px 3px 9px black;
+}
+
+.contentCard{
+    width: 400px;
+    height: 450px;
+    box-shadow: 5px 3px 9px black;
+    padding: 30px;
+    position: relative;
+    left: 57px;
+    top: -370px;
+    background-color: white;
+}
